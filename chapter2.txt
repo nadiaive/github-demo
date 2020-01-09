@@ -1,0 +1,4 @@
+Chapter 2
+
+This is the second chapter of my book. 
+What do you need to know about Git? 
